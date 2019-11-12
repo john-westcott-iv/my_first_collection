@@ -1,0 +1,18 @@
+namespace: "john_westcott_iv"
+name: "greetings_en"
+version: "1.0.0"
+readme: "README.md"
+authors:
+    - "John Westcott IV <john.westcott.iv@redhat.com>"
+dependencies:
+license:
+    - "GPL3"
+tags:
+    - english
+    - hello
+    - john.westcott.iv
+repository: "https://www.github.com/john_westcott_iv/greetings_en"
+documentation: ""
+homepage: ""
+issues: "https://www.github.com/john_westcott_iv/greetings_en/issues"
+
